@@ -1,6 +1,11 @@
-### Hii there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+<hr>
 
-I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
+<img align="right" src="https://media.giphy.com/media/ozCcNgznOnE56vUmJc/giphy.gif" width="80"/>
+
+- I like combining my technical knowledge with design to make beautiful and efficient applications.
+- My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
+- Always exploring new **technologies** to push the boundaries of **software architecture**.
 
 <!--
 **sheesh-roo/sheesh-roo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
